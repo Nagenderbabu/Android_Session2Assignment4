@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="name_padding">16dp</dimen>
+    <dimen name="name_margin">16dp</dimen>
+    <dimen name="pswd_padding">16dp</dimen>
+    <dimen name="pswd_margin">16dp</dimen>
+    <dimen name="login_padding">10dp</dimen>
+    <dimen name="login_margin">16dp</dimen>
+</resources>

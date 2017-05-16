@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+     <color name="name_color">#7F7F7F</color>
+    <color name="name_background">#FFFFFF</color>
+    <color name="home_color">#00BC9D</color>
+    00BFA3
+    #00BC9D
+    <color name="pswd_color">#7F7F7F</color>
+    <color name="pswd_background">#FFFFFF</color>
+
+    <color name="login_color">#00BC9D</color>
+    <color name="login_background">#FFFFFF</color>
+    <color name="msg_color">#FFFFFF</color>
+    <color name="msg_background">#00BC9D</color>
+</resources>

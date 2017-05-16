@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id">email </item>
+    <item name="pswd" type="id">pswd</item>
+    <item name="login" type="id">login</item>
+    <item name="msg" type="id">msg</item>
+</resources>
